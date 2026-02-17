@@ -112,11 +112,11 @@ const Footer = () => {
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaMapLocationDot />
-                  <p>Indore, Madhya Pradesh</p>
+                  <p>Karachi</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <IoCall />
-                  <p>+91 123456789</p>
+                  <p>+92 12345678 </p>
                 </div>
               </div>
             </div>
